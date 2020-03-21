@@ -1,6 +1,10 @@
 package com.shuaiwang.springboot;
 
 import com.shuaiwang.springboot.bean.Person;
+import com.shuaiwang.springboot.test.parent;
+import com.shuaiwang.springboot.test.sickBehaviour;
+import com.shuaiwang.springboot.test.student;
+import com.shuaiwang.springboot.test.teacher;
 import org.junit.jupiter.api.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -25,6 +29,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 @SpringBootTest
 class SpringBoot02PropertiesApplicationTests {
 
+
     @Autowired
     Person person;
 
@@ -33,6 +38,11 @@ class SpringBoot02PropertiesApplicationTests {
 
     @Test
     void testHelloService(){
+        student stu;
+        teacher tea;
+        parent par;
+        sickBehaviour s=new student();
+        s.play();
         boolean b = ioc.containsBean("helloService");
         System.out.println(b);
     }
@@ -40,5 +50,6 @@ class SpringBoot02PropertiesApplicationTests {
     void contextLoads() {
         System.out.println(person);
     }
+
 
 }

@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>成功获取数据</title>
+</head>
+<body>
+<h1 th:text="${wangshuai}">标题1</h1>
+<!--以下是thyemleaf语法-->
+<!--th:text="${first}"表示该div标签的text属性会被替换成"${first}"-->
+<!--可用“th:属性”替换HTML任意属性；其次，替换的属性无论原HTML标签是否存在-->
+<div th:text="${first}">此处写欢迎信息(text信息会被th:text="${first}"替换)</div>
+<!--优势1：前端自己写HTML;后端返回数据（此例是map）即可实现》》》前后端分离-->
+
+</body>
+</html>
