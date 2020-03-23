@@ -67,5 +67,16 @@ public class WebController {
          * - 开箱即用
          * - Data+template经过tempEngine模板引擎会写成新的页面
          */
+
     }
+    /**20200323
+     * 上述疑问的实质是模板引擎的拼接字符串操作
+     * 前缀：XXXXtemplates
+     * 后缀：.html
+     * 中间：return的字符串
+     */
+//    @RequestMapping({"/","/index.html"})
+//    public String index(){
+//        return "index";
+//    }
 }
