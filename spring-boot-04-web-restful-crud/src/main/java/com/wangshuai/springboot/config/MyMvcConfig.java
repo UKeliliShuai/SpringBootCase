@@ -51,6 +51,6 @@ public class MyMvcConfig implements WebMvcConfigurer {
          * 4.springboot2.0以上要设置静态资源放行
          */
         registry.addInterceptor(new LoginHandlerInterceptor()).addPathPatterns("/**")
-        .excludePathPatterns("/index.html","/","/user/login").excludePathPatterns("/asserts/**");
+        .excludePathPatterns("/index.html","/","/user/login").excludePathPatterns("/asserts/**","/webjars/**");
     }
 }
