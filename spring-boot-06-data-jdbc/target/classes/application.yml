@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    username: root
+    password: wangshuai
+    url: jdbc:mysql://106.13.207.208:3306/jdbc
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    initialization-mode: always

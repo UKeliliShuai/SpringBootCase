@@ -1,0 +1,172 @@
+GET http://localhost:8080/crud/
+Accept: */*
+Cache-Control: no-cache
+Authorization: Basic d2FuZ3NodWFpOndhbmdzaHVhaQ==
+
+###
+
+GET http://localhost:8080/crud/aaa
+Accept: */*
+Cache-Control: no-cache
+Authorization: Basic d2FuZ3NodWFpOndhbmdzaHVhaQ==
+
+###
+
+GET http://localhost:8080/crud/aaa
+Accept: */*
+Cache-Control: no-cache
+Authorization: Basic d2FuZ3NodWFpOndhbmdzaHVhaQ==
+
+<> 2020-04-03T040437.404.json
+
+###
+
+GET http://localhost:8080/crud/aaa
+Accept: */*
+Cache-Control: no-cache
+Authorization: Basic d2FuZ3NodWFpOndhbmdzaHVhaQ==
+
+<> 2020-04-03T040431.404.json
+
+###
+
+GET http://localhost:8080/crud/aaa
+Accept: */*
+Cache-Control: no-cache
+Authorization: Basic d2FuZ3NodWFpOndhbmdzaHVhaQ==
+
+<> 2020-04-03T040101.404.json
+
+###
+
+GET http://localhost:8080/crud/aaa
+Accept: */*
+Cache-Control: no-cache
+Authorization: Basic d2FuZ3NodWFpOndhbmdzaHVhaQ==
+
+<> 2020-04-03T035737.404.json
+
+###
+
+GET http://localhost:8080/crud/aaa
+Accept: */*
+Cache-Control: no-cache
+Authorization: Basic d2FuZ3NodWFpOndhbmdzaHVhaQ==
+
+<> 2020-04-03T034854.404.json
+
+###
+
+GET http://localhost:8080/crud/
+Accept: */*
+Cache-Control: no-cache
+Authorization: Basic d2FuZ3NodWFpOndhbmdzaHVhaQ==
+
+<> 2020-04-03T034849.200.html
+
+###
+
+GET http://localhost:8080/crud/
+Accept: */*
+Cache-Control: no-cache
+Authorization: Basic d2FuZ3NodWFpOndhbmdzaHVhaQ==
+
+<> 2020-04-03T034817.200.html
+
+###
+
+GET http://localhost:8080/crud/user/login
+Accept: */*
+Cache-Control: no-cache
+Authorization: Basic d2FuZ3NodWFpOndhbmdzaHVhaQ==
+
+<> 2020-04-03T034811.405.html
+
+###
+
+GET http://localhost:8080/cruc/user/login
+Accept: */*
+Cache-Control: no-cache
+Authorization: Basic d2FuZ3NodWFpOndhbmdzaHVhaQ==
+
+<> 2020-04-03T034754.404.html
+
+###
+
+GET http://localhost:8080/user/login
+Accept: */*
+Cache-Control: no-cache
+Authorization: Basic d2FuZ3NodWFpOndhbmdzaHVhaQ==
+
+<> 2020-04-03T034549.404.html
+
+###
+
+GET http://localhost:8080/user/login
+Accept: */*
+Cache-Control: no-cache
+Authorization: Basic d2FuZ3NodWFpOndhbmdzaHVhaQ==
+
+<> 2020-04-03T034543.404.html
+
+###
+
+GET http://localhost:8080/crud/main.html
+Accept: */*
+Cache-Control: no-cache
+Authorization: Basic d2FuZ3NodWFpOndhbmdzaHVhaQ==
+
+<> 2020-04-03T034447.200.html
+
+###
+
+GET http://localhost:8080/crud/
+Accept: */*
+Cache-Control: no-cache
+Authorization: Basic d2FuZ3NodWFpOndhbmdzaHVhaQ==
+
+<> 2020-04-03T034438.200.html
+
+###
+
+GET http://localhost:8080/crud/
+Accept: */*
+Cache-Control: no-cache
+Authorization: Basic d2FuZ3NodWFpOndhbmdzaHVhaQ==
+
+<> 2020-04-03T034423.200.html
+
+###
+
+GET http://localhost:8080/crud/
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-04-03T034229.200.html
+
+###
+
+GET http://localhost:8080/crud/aaa
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-04-03T034012.200.html
+
+###
+
+GET http://localhost:8080/crud/aaa
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-04-03T033959.200.html
+
+###
+
+GET http://localhost:8080/crud/aaa
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-04-03T033916.200.html
+
+###
+
