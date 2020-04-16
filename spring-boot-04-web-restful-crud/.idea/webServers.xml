@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b14164f0-2ee5-419e-8a2f-a9dedf3ae61f" name="wangshuai" url="http://106.13.207.208">
+        <fileTransfer host="106.13.207.208" port="22" privateKey="D:\GitHub\WebServer\MBaidu.ppk" rootFolder="/root/wangshuai" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
